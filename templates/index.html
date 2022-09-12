@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/static/css/style.css">
+    <title>Title</title>
+</head>
+<body>
+<div>
+    <div class="parent">
+        {{ info }}
+    </div>
+    <div style="text-align: center;">
+        {% autoescape false %}
+            {{ poem }}
+        {% endautoescape %}
+    </div>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'IranNastaliq';
+    src: url('/static/css/fonts/IranNastaliq.eot');
+    src: url('/static/css/fonts/IranNastaliq.eot?#iefix') format('embedded-opentype'),
+        url('/static/css/fonts/IranNastaliq.woff2') format('woff2'),
+        url('/static/css/fonts/IranNastaliq.woff') format('woff'),
+        url('/static/css/fonts/IranNastaliq.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html,
+body { height: 100%;
+font-family: 'IranNastaliq';
+font-size: 24px
+
+}
+
+.parent {
+height: 100px;
+}
+
+* {
+
+text-align: center;
+
+}
+
+.child {
+width: 500px;
+height: 100px;
+}
+
