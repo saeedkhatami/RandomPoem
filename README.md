@@ -12,8 +12,9 @@
 ## نحوه کار 
 ### به صورت آنلاین
 * برای شعر تصادفی فقط کافیه که وبسایت زیر مراجعه کنید
-* https://random-poem.iran.liara.run/
+* [شعر تصادفی](https://random-poem.iran.liara.run/)
 * برای فال حافظ باید `faal/` را در آخر لینک اضافه کنید تا برای شما یک فال حافظ بگیرد
+* [فال حاظ](https://random-poem.iran.liara.run/faal)
 ### به صورت آفلاین
 * کد را از گیتهاب clone کنید با
 *`git clone https://github.com/0xb4dc0d3x/RandomPoem.git`
