@@ -4,8 +4,9 @@
 ![شعر تصادفی](ss/sh.png "شعر تصادفی")
 
 # Random Poem - شعر تصادفی
-<img src="https://raw.githubusercontent.com/0xb4dc0d3x/RandomPoem/master/ss/ss1.PNG" style="  display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0xb4dc0d3x/RandomPoem/master/ss/ss1.PNG" />
+</p>
 # امکانات 
 *  یک شعر تصادفی از یک شاعر بگیرید 🥏
 * فال حافظ بگیرید 🎭
