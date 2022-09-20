@@ -36,5 +36,5 @@
 
 #### شعر تصادفی از Ganjoor-API استفاده میکند
 
-🌟
+if you like don't forget to 🌟
 </div>
