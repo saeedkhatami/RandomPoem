@@ -12,7 +12,7 @@ def random():
     new_plain_text = plain_text_respond.replace('\n', '<br>')
     poem_info = json_respond['fullTitle']
 
-    return render_template('index.html', info=poem_info, poem=new_plain_text)
+    return render_template('index.html', title= "شعر تصادفی", info=poem_info, poem=new_plain_text)
 
 
 @app.route('/faal', methods=['GET'])
@@ -23,5 +23,5 @@ def faal():
     new_plain_text = plain_text_respond.replace('\n', '<br>')
     poem_info = json_respond['fullTitle']
 
-    return render_template('index.html', info=poem_info, poem=new_plain_text)
+    return render_template('index.html', title= "فال حافظ", info=poem_info, poem=new_plain_text)
 
